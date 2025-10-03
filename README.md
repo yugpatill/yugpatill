@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Yug 👋</h1>
 <p align="center">
-MS CS @ NJIT • Python • Data & ML • Open to [Internship/Co-op Season]
+MS CS @ NJIT • Python • Data & ML
 </p>
 
 <p align="center">
   <a href="mailto:yugandhar131102@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/yugandharpatil/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/yugandharpatil/">LinkedIn</a> 
 
 </p>
 
