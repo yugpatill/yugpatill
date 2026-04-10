@@ -123,18 +123,6 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Yugandhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugpatill&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yugpatill&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 - 📜 **Google Data Analytics Professional Certificate** — Coursera
