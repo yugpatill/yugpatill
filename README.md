@@ -90,7 +90,7 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 
 ---
 
-### 🔍 [Multi-Agent Code Review System](https://github.com/yugpatill/multi-agent-code-review)
+### 🔍 [Multi-Agent Code Review System](https://github.com/yugpatill/multi-agent-code-review-system)
 > Parallel AI agents for automated, comprehensive code review
 
 - 4 specialized agents (Security, Performance, Code Quality, Tests) running in parallel via **asyncio**
