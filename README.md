@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Hey, I'm Yugandhar Patil 👋</h1>
-  <p>MS Computer Science @ NJIT • AI/ML Engineer • Data Scientist</p>
 
+# Hey, I'm Yugandhar Patil 👋
+
+### MS Computer Science @ NJIT · AI/ML Engineer · Data Scientist
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yugpatil.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://yugpatil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yugandharpatil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugandharpatil)
 [![GitHub](https://img.shields.io/badge/GitHub-yugpatill-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yugpatill)
 [![Email](https://img.shields.io/badge/Email-yugandhar131102@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugandhar131102@gmail.com)
@@ -28,6 +31,7 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **AI / ML / DL**
 
@@ -47,6 +51,7 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 **Backend & Deployment**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -63,6 +68,8 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-00897B?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
 ---
 
@@ -80,6 +87,21 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+---
+
+### 🔍 [Multi-Agent Code Review System](https://github.com/yugpatill/multi-agent-code-review)
+> Parallel AI agents for automated, comprehensive code review
+
+- 4 specialized agents (Security, Performance, Code Quality, Tests) running in parallel via **asyncio**
+- Meta-agent merges and ranks findings into a single prioritized report
+- Uses **Google Gemini** structured JSON output with **Pydantic v2** for type-safe contracts
+- Built with **Streamlit** frontend and **GitHub API** integration
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 
 ---
 
@@ -114,7 +136,6 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 > NLP model to classify spam emails using TF-IDF and Logistic Regression
 
 - Applied **text preprocessing, TF-IDF vectorization**
-- Built using **Logistic Regression** for binary classification
 - Full NLP pipeline from raw text to predictions
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -125,18 +146,18 @@ I'm a Master's student in Computer Science at **New Jersey Institute of Technolo
 
 ## 🎓 Certifications
 
-- 📜 **Google Data Analytics Professional Certificate** — Coursera
+- 📜 **Google Data Analytics Professional Certificate** — Google / Coursera
 - 📜 **Foundations of Data Science** — Google / Coursera
 - 📜 **Crash Course on Python** — Google / Coursera
-
+- 📜 **Anthropic: Claude 101** — Anthropic
+- 📜 **Claude Code 101** — Anthropic
+- 📜 **Claude Code in Action** — Anthropic
+- 📜 **AI Fluency: Framework & Foundations** — Anthropic
+- 📜 **AI Fluency for Students** — Anthropic
 
 ---
 
 <div align="center">
-
-### 🔍 Open to AI/ML Engineer and Data Scientist roles
-### 📫 Reach me at yugandhar131102@gmail.com
-
-⭐ **If you find my work interesting, consider following me!**
-
+  <i>Open to AI/ML Engineer, Applied AI, and Data Science roles — feel free to reach out!</i><br><br>
+  <a href="https://yugpatil.com">🌐 yugpatil.com</a>
 </div>
